@@ -136,5 +136,10 @@
 .copyright {border-top: 1px solid #c0c0c0;padding: 20px;}
 .copyright ul {margin: 0}
 .copyright ul li {display: inline-block;}
-.copyright ul li a {color: #777;display: inline-block;margin-left: 20px;font-size: 18px;}
+.copyright ul li i {color: #777;display: inline-block;margin-left: 20px;font-size: 18px;transition: 0.3s;}
+.copyright ul li a .fa-facebook-f:hover {color:#4267B2}
+.copyright ul li a .fa-github:hover {color:#000}
+.copyright ul li a .fa-twitter:hover  {color:#1DA1F2}
+.copyright ul li a .fa-youtube:hover  {color:#FF0000}
+.copyright ul li a .fa-google-plus-g:hover  {color: #db4a39;}
 /* End Copyright *
